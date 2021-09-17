@@ -1,7 +1,7 @@
 # Ruby - Informações Básicas
 
 <h4>Tipos de dados:</h4>
-<br>int
+int
 <br>float
 <br>string
 <br>boolean
@@ -11,7 +11,7 @@
 
 
 <h4>Operadores matemáticos:</h4>
-<br>adição         (+)
+adição         (+)
 <br>subtração      (-)
 <br>divisão        (/)
 <br>multiplicação  (*)
@@ -20,17 +20,16 @@
 
 
 <h4>Entrada / Saída:</h4>
-<br>print ''          (não pula linha)
+print ''          (não pula linha)
 <br>puts ""           (pula linha \n)
 <br>p ""              (Debug - 'invisível')
 <br>gets.chomp        (recebe uma entrada d.o teclado)
 
 
 <h4>Estruturas de controle (Condicional - Iteração):</h4>
-<br>If / Else / Elsif     (not)
+If / Else / Elsif     (not)
 <br>Unless
 <br>Case                  (Switch)
-
 <br>For                   (x in y / )
 <br>While
 <br>Times
@@ -38,7 +37,7 @@
 
 
 <h4>Collections(Arrays - Hash - Iterações):</h4>
-<br>array = []                                   (cria um array vazio)
+array = []                                   (cria um array vazio)
 <br>array.push('valor/string/...')               (adiciona elemento ao array)
 <br>array.insert(Int (posição), '...')           (adiciona elemento onde quer)
 <br>array[x] = "..."                             (altera o elemento da posição X)
